@@ -1,10 +1,10 @@
-package dev.farhan.movieist;
+package dev.jiblitz.movies.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MovieistApplicationTests {
+class MoviesProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
